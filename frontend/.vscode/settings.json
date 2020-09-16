@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e21eeb3c-d923-49f9-a1c5-b161fbf194bb/resourceGroups/4ap_rg_Linux_centralus/providers/Microsoft.Web/sites/data2doc-frontend",
+    "appService.deploySubpath": "dist/frontend"
+}
